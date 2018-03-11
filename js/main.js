@@ -1,7 +1,9 @@
 
 window.onload = sky;
 
-var scene, camera, renderer;
+var scene;
+var camera;
+var renderer;
 
 function sky() {
     init();
